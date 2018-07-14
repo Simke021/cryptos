@@ -1,0 +1,2 @@
+# cryptos
+Crypto landing page
